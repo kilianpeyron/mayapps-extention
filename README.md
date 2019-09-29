@@ -8,5 +8,5 @@ Vous pouvez utiliser cette extention librement
 ----
 Licence : CC BY 3.0 (les crédits de pied de page (footer) doivent rester en place)
 ----
-© 2018-2019 Kilian Peyron
+<small>© 2018-2019 Kilian Peyron</small>
 ----
