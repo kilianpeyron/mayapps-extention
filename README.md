@@ -10,7 +10,7 @@ Aucun.
 
 ## Auteur
 
-* **Kilian Peyron** - *Initial work* - [Twitter](https://twitter.com/kilianpeyron_)
+* **Kilian Peyron** - [Twitter](https://twitter.com/kilianpeyron_)
 
 ## License
 
