@@ -10,17 +10,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-## Built With
+## Site officiel
 
 * [MayApps](http://www.mayapps.ga)
 
-## Authors
+## Auteur
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Kilian Peyron** - *Initial work* - [Twitter](https://twitter.com/kilianpeyron_)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Ce projet est sous licence MIT - voir le fichier[LICENSE.md](LICENSE.md) pour plus de détails.
 
