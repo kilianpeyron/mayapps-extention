@@ -1,6 +1,6 @@
 # MayApps Extention Open Source
 
-### Prerequisites
+### Prérequis
 
 Aucun.
 
